@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+:root {
+    --main-bg-color: #1C1B29;
+    --main-text-color: #9FB4FF;
+}
+*{
+    border: 0;
+    padding: 0;
+    margin: 0;
+    font-family: Roboto Slab;
+    color: var(--main-text-color);
+    background-color: var(--main-bg-color);
+}
+
+.page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-weight: bold;
+    width: 100%;
+    height: 100vh;
+}
+.heading{
+width: 100vw;
+background: none;
+margin-left: 200px;
+
+}
+#scroll {
+    display: flex;
+    align-items: center;
+    font-size: 40px;
+    padding: 40px;
+    background: none;
+}
+#welcome {
+    font-size: 120px;
+    color: black;
+    background: antiquewhite;
+    padding: 8px 24px;
+    border-radius: 16px;
+    font-family: 'Titillium Web';
+    opacity: 80%;
+    text-transform: uppercase;
+}
+#arrow {
+    width: 8%;
+    padding: 8px 24px;
+    background: none;
+}
+#page2{
+    width: 90%;
+    padding: 100px;
+}
+.abouttext {
+    width: 70%;
+}    
+h2 {
+font-style: normal;
+font-size: 60px;
+padding: 20px;
+background: none;
+flex-direction: start;
+}
+h3 {
+    font-style: normal;
+    font-size: 40px;
+}
+p {
+    font-size: 22px;
+    padding: 20px;
+    background: none;
+}
+ul {
+    padding: 20px;
+    font-size: 22px;
+    margin: 20px;
+}
+#me { 
+    padding: 20px;
+    border-radius: 50%;
+    height: 100%;
+    vertical-align: middle;
+    filter: blur(0.2px) hue-rotate(5deg) opacity(0.9) saturate(1.3) sepia(0.4) brightness(0.7);
+}
+li {
+    padding: 20px;
+    font-size: 20px;
+}
+.container {
+    display: flex;
+}
+#page1{
+    background-image: url(images/background1.jpg);
+    background-size: cover;
+    width: 100vw;
+}
+#page3{
+    background-image: url(images/background2.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100vw;
+}
+.cardholder {
+    display: flex;
+    flex-wrap: wrap;
+    background: none;
+    justify-content: center;
+    margin-left: 20px;
+}
+.card-light {
+  height: 20vw;
+  flex: 0 0 calc(25% - 20px);
+  margin: 20px;
+  align-self: flex-start;
+  overflow: hidden;
+  background: antiquewhite
+}
+.thumbnail {
+    width: 100%;
+}
+.card-dark {
+    height: 25vw;
+    flex: 0 0 calc(25% - 20px);
+    margin: 20px;
+    align-self: flex-start;
+    overflow: hidden;
+    background: var(--main-bg-color)
+  }
+
+  #page4{
+    width: 100vw;
+    margin-top: 30px;
+  }
+  .link {
+    flex: 0 0 calc(20% - 20px);
+    margin: 20px;
+    background: var(--main-bg-color);
+    width: 5vw;
+  }
