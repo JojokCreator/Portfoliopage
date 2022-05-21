@@ -31,3 +31,4 @@ You'll present your designs and process to your peers on Monday morning to get f
 ### 🌟 Bonus
 
 Once you're happy with your design process and have committed, feel free to start breaking it down and building it out of HTML and CSS. **We do not expect this to be fully completed by the time you hand this assignment in, but it could make for a nice version 1.0 of your portfolio site to work on over the next few weeks of the course**. You can start to add functionality to your page using your DOM manipulation skills in JavaScript as well.
+# Portfoliopage
