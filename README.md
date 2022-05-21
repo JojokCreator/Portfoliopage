@@ -1,6 +1,6 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7852699&assignment_repo_type=AssignmentRepo)
 <div align="center">
-    <img alt="School of Code" src="./images/soc-logo.png" width="60" />
+    <img alt="School of Code" src="./planning_Stages/wireframe_Design.png" width="600" />
 </div>
 <h1 align="center">
   Week 3 - Recap Tasks
