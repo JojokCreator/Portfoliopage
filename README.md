@@ -9,8 +9,8 @@
 ## User flow Diagram
 [Userflow](./planning_Stages/user_Journey_Flow.drawio)
 
-## Wireframe
+## Wireframe -Miro
 ![Wireframe](./planning_Stages/wireframe_Design.png)
 
-## High-fidelity design
+## High-fidelity design - Figma
 ![Hi-Fi](./planning_Stages/hi-fid.png)
