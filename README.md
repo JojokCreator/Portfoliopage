@@ -1,34 +1,16 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7852699&assignment_repo_type=AssignmentRepo)
-<div align="center">
-    <img alt="School of Code" src="./planning_Stages/wireframe_Design.png" width="600" />
-</div>
-<h1 align="center">
-  Week 3 - Recap Tasks
-</h1>
+# Design for a portfolio website UI/UX planning project
+## View the unfinished site [here](https://jojokcreator.github.io/Portfoliopage/)
 
-## Get ready for next week
+## User Stories 
+### Who will be using your app? What needs will this app fulfill? Add your user stories and personas to this repo.
+![User Stories](./planning_Stages/user_Stories.png)
+<img src="./planning_Stages/bob_User_Persona.png" width=45% height=45%> <img src="./planning_Stages/jackie_User_Persona.png" width=45% height=45%>
 
-Next week, we'll be delving into NodeJS, which allows us to run JavaScript outside the browser - exciting!
+## User flow Diagram
+[Userflow](./planning_Stages/user_Journey_Flow.drawio)
 
-To make sure you're ready to go for this, [click here](https://npm.github.io/installation-setup-docs/installing/using-a-node-version-manager.html).
+## Wireframe
+![Wireframe](./planning_Stages/wireframe_Design.png)
 
-We'll be installing Node with a version manager. There are a lot of different versions of Node out there. A version manager will help you keep track of what version you are using and also make it easy to install new versions and switch between them. Use the link relevant to your operating system (for Mac and Linux, use the nvm link, and for Windows, use the nodist link). Use the readme/docs at the relevant link to install the relevant package.
-
-## Recap tasks
-
-### Your own site all about you
-
-You challenge is to design a website all about the most amazing person: YOU! You might be tempted to just make a HTML version of a boring old CV... don't! Think about your audiences/users (likely to be employers, other developers, etc), create your personas, build your user stories, and design a user experience which really helps your audience achieve their goals.
-
-Follow the Design Thinking Process and UX/UI planning we've covered this week. Be sure to document (notes, screenshots, etc.) each stage of your planning in this repository before you build, including:
-
-- Create user personas and user stories - who will be using your app? What needs will this app fulfill? Add your user stories and personas to this repo.
-- Plan your design, and create your wireframes. Download or screenshot them from whatever tool you're using and add them to this repo.
-- Create a high-fidelity design which looks like the end-product you are hoping to build. Ensure you commit once you've completed your design process!
-
-You'll present your designs and process to your peers on Monday morning to get feedback as well.
-
-### 🌟 Bonus
-
-Once you're happy with your design process and have committed, feel free to start breaking it down and building it out of HTML and CSS. **We do not expect this to be fully completed by the time you hand this assignment in, but it could make for a nice version 1.0 of your portfolio site to work on over the next few weeks of the course**. You can start to add functionality to your page using your DOM manipulation skills in JavaScript as well.
-# Portfoliopage
+## High-fidelity design
+![Hi-Fi](./planning_Stages/hi-fid.png)
